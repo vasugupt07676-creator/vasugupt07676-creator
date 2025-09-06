@@ -1,0 +1,16 @@
+name: Update Blog Posts
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12h
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://vasugupta.co/rss.xml"  # change if your RSS is different
+          max_post_count: 5
