@@ -99,8 +99,8 @@
 ## 🎯 Hire Me / Contact
 - 📬 Email: <a href="mailto:vasugupt07676@gmail.com">vasugupt07676@gmail.com</a>  
 - 🌐 Website: <a href="https://vasugupta.co">vasugupta.co</a>  
-- 🔗 LinkedIn: <a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin.com/in/YOUR_LINKEDIN</a>  
-- 🐦 Twitter/X: <a href="https://twitter.com/YOUR_TWITTER">twitter.com/YOUR_TWITTER</a>  
+- 🔗 LinkedIn: <a href="https://linkedin.com/in/vasugupta76">linkedin.com/in/vasugupta76</a>  
+- 🐦 Twitter/X: <a href="https://twitter.com/vasugupta.co">twitter.com/vasugupta.co</a>  
 
 <p>
   <a href="https://buymeacoffee.com/YOUR_BMAC_ID">
