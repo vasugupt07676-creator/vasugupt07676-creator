@@ -74,11 +74,6 @@
 
 ---
 
-## 📊 Advanced Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vasugupt07676-creator/vasugupt07676-creator/main/github-metrics.svg" />
-</p>
-
 ---
 
 ## 🎯 Hire Me / Contact
