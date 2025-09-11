@@ -61,21 +61,6 @@
 
 ---
 
-## 🎵 Now Playing (Spotify)
-<!-- Replace YOUR_SPOTIFY_UID below (Spotify profile → copy user ID) -->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&show_offline=false&theme=novatorem&bar_color=53b14f" />
-</p>
-
----
-
-## 📰 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon…
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🧭 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
