@@ -28,14 +28,6 @@
 
 ---
 
-## 📌 Featured
-- 🔗 **Personal Website** — responsive portfolio with projects & contact  
-  <a href="https://github.com/vasugupt07676-creator/personal-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasugupt07676-creator&repo=personal-website&theme=tokyonight" />
-  </a>
-
----
-
 ## 📊 Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vasugupt07676-creator&show_icons=true&theme=tokyonight" />
