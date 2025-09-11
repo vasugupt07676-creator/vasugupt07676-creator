@@ -61,12 +61,6 @@
 
 ---
 
-## 🧭 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/vasugupt07676-creator/vasugupt07676-creator/output/github-contribution-grid-snake.svg" />
